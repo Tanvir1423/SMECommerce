@@ -1,0 +1,44 @@
+﻿@model SMECommerce.App.Models.ProductModels.ProductCreate
+<div class="card card-primary">
+    <div class="card-header">
+        <h3 class="card-title">Product Create</h3>
+    </div>
+    <!-- /.card-header -->
+    <!-- form start -->
+    <form method="post">
+        <div class="card-body">
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+            </div>
+            <div class="form-group">
+                <label for="code">Code</label>
+                <input type="text" class="form-control" id="code" name="code" placeholder="Code">
+            </div>
+            <div class="form-group">
+                <label class="control-label">Manufacture Date:</label>
+                <input type="date" id="ManufactureDate" name="ManufactureDate" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="price">Price</label>
+                <input type="text" class="form-control" id="code" name="price" placeholder="price">
+            </div>
+            <div class="form-group">
+                <label for="description">Description</label>
+                <textarea class="form-control" id="description" name="description" placeholder="Description"></textarea>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Category:</label>
+                <select id="drpEmpList" class="form-control" asp-for="CategoryId" asp-items="@(new SelectList(Model.categoryList, "Id", "Name"))">
+                    <option value="">--All--</option>
+                </select>
+            </div>
+
+        </div>
+        <!-- /.card-body -->
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+</div>

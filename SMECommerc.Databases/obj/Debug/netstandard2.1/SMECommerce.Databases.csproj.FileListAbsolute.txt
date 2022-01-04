@@ -1,0 +1,62 @@
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.deps.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.AssemblyReference.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfoInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfo.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CoreCompileInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.deps.json
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.AssemblyReference.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.GeneratedMSBuildEditorConfig.editorconfig
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfoInputs.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfo.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CoreCompileInputs.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CopyComplete
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.deps.json
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.AssemblyReference.cache
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfoInputs.cache
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfo.cs
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.deps.json
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.AssemblyReference.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfoInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.deps.json
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.AssemblyReference.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfoInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CopyComplete
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerc.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.pdb

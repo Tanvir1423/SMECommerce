@@ -1,0 +1,37 @@
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.csproj.AssemblyReference.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.AssemblyInfoInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.AssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.deps.json
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Repositories.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.deps.json
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstrations.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Repositories.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.Abstrations.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.Abstrations.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstrations.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.csproj.AssemblyReference.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.AssemblyInfoInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.AssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.csproj.CopyComplete
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.pdb

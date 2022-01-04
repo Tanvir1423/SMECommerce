@@ -1,0 +1,76 @@
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.deps.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.AssemblyReference.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfoInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfo.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CoreCompileInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CopyComplete
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.deps.json
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.AssemblyReference.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfoInputs.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfo.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CoreCompileInputs.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CopyComplete
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.deps.json
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.AssemblyReference.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfoInputs.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfo.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CopyComplete
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.deps.json
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.AssemblyReference.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfoInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.deps.json
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstrations.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstrations.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.AssemblyReference.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfoInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CopyComplete
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.pdb

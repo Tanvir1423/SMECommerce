@@ -1,0 +1,820 @@
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\appsettings.Development.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\appsettings.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.exe
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.deps.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.runtimeconfig.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.runtimeconfig.dev.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ref\SMECommerce.App.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Views.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Views.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.AssemblyReference.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.AssemblyInfoInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.AssemblyInfo.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CoreCompileInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.MvcApplicationPartsAssemblyInfo.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorAssemblyInfo.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorAssemblyInfo.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\staticwebassets\SMECommerce.App.StaticWebAssets.Manifest.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\staticwebassets\SMECommerce.App.StaticWebAssets.xml
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.App.styles.css
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.TagHelpers.input.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.TagHelpers.output.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorCoreGenerate.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorTargetAssemblyInfo.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorTargetAssemblyInfo.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.Views.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\ref\SMECommerce.App.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.genruntimeconfig.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CopyComplete
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Humanizer.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Models.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Models.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Databases.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Databases.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\_ViewStart.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\appsettings.Development.json
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\appsettings.json
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.exe
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.deps.json
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.runtimeconfig.json
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.runtimeconfig.dev.json
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ref\SMECommerce.App.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Views.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Views.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Humanizer.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Databases.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Models.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Databases.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Models.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.AssemblyReference.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.GeneratedMSBuildEditorConfig.editorconfig
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.AssemblyInfoInputs.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.AssemblyInfo.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CoreCompileInputs.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.MvcApplicationPartsAssemblyInfo.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorAssemblyInfo.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorAssemblyInfo.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\staticwebassets\SMECommerce.App.StaticWebAssets.Manifest.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\staticwebassets\SMECommerce.App.StaticWebAssets.xml
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.App.styles.css
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.TagHelpers.input.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.TagHelpers.output.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorCoreGenerate.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\_ViewStart.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorTargetAssemblyInfo.cache
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorTargetAssemblyInfo.cs
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.Views.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CopyComplete
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\ref\SMECommerce.App.dll
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.pdb
+G:\pencilbox\Class lecture\Day 12\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.genruntimeconfig.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\appsettings.Development.json
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\appsettings.json
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.exe
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.deps.json
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.runtimeconfig.json
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.runtimeconfig.dev.json
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ref\SMECommerce.App.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Views.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Views.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Humanizer.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Databases.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Models.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Databases.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Models.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.AssemblyReference.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.AssemblyInfoInputs.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.AssemblyInfo.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.MvcApplicationPartsAssemblyInfo.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorAssemblyInfo.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorAssemblyInfo.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\staticwebassets\SMECommerce.App.StaticWebAssets.Manifest.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\staticwebassets\SMECommerce.App.StaticWebAssets.xml
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.App.styles.css
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.TagHelpers.input.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.TagHelpers.output.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorCoreGenerate.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\_ViewStart.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorTargetAssemblyInfo.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorTargetAssemblyInfo.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.Views.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CopyComplete
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\ref\SMECommerce.App.dll
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.pdb
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.genruntimeconfig.cache
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Success.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\_ViewStart.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+G:\Aspdotnet\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\CategoryList.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\appsettings.Development.json
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\appsettings.json
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.exe
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.deps.json
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.runtimeconfig.json
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.runtimeconfig.dev.json
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ref\SMECommerce.App.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Views.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Views.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Humanizer.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Databases.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Models.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Databases.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Models.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.AssemblyReference.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.AssemblyInfoInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.AssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.MvcApplicationPartsAssemblyInfo.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorAssemblyInfo.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorAssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\staticwebassets\SMECommerce.App.StaticWebAssets.Manifest.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\staticwebassets\SMECommerce.App.StaticWebAssets.xml
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.App.styles.css
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.TagHelpers.input.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.TagHelpers.output.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorCoreGenerate.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\CategoryList.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\_ViewStart.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Success.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\_ViewStart.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorTargetAssemblyInfo.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorTargetAssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.Views.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CopyComplete
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\ref\SMECommerce.App.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.genruntimeconfig.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Services.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Services.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\appsettings.Development.json
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\appsettings.json
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.exe
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.deps.json
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.runtimeconfig.json
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.runtimeconfig.dev.json
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ref\SMECommerce.App.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Views.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Views.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Humanizer.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Databases.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Models.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Services.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Services.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Databases.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Models.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.AssemblyReference.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.AssemblyInfoInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.AssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.MvcApplicationPartsAssemblyInfo.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorAssemblyInfo.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorAssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\staticwebassets\SMECommerce.App.StaticWebAssets.Manifest.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\staticwebassets\SMECommerce.App.StaticWebAssets.xml
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.App.styles.css
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.TagHelpers.input.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.TagHelpers.output.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorCoreGenerate.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\CategoryList.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\_ViewStart.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\Success.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Product\_ViewStart.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorTargetAssemblyInfo.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.RazorTargetAssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.Views.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\ref\SMECommerce.App.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.genruntimeconfig.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CopyComplete
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.Abstrations.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Services.Abstrations.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Repositories.Abstrations.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.Services.Abstrations.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Configuretions.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\SMECommerce.App.Configuretions.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\AutoMapper.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.App\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

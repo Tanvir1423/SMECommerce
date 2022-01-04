@@ -1,0 +1,13 @@
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\bin\Debug\netstandard2.1\SMECommerce.Services.Abstrations.deps.json
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\bin\Debug\netstandard2.1\SMECommerce.Services.Abstrations.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\bin\Debug\netstandard2.1\SMECommerce.Services.Abstrations.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\obj\Debug\netstandard2.1\SMECommerce.Services.Abstrations.csproj.AssemblyReference.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\obj\Debug\netstandard2.1\SMECommerce.Services.Abstrations.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\obj\Debug\netstandard2.1\SMECommerce.Services.Abstrations.AssemblyInfoInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\obj\Debug\netstandard2.1\SMECommerce.Services.Abstrations.AssemblyInfo.cs
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\obj\Debug\netstandard2.1\SMECommerce.Services.Abstrations.csproj.CoreCompileInputs.cache
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\obj\Debug\netstandard2.1\SMECommerce.Services.Abstrations.csproj.CopyComplete
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\obj\Debug\netstandard2.1\SMECommerce.Services.Abstrations.dll
+G:\Aspdotnet\New folder (2)\New folder (2)\New folder\SMECommerce\SMECommerce.Services.Abstrations\obj\Debug\netstandard2.1\SMECommerce.Services.Abstrations.pdb
